@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="header.png" alt="Hi! I'm Daniel Gajewski ✌🏻">
 
 <!--
 **beeklz/beeklz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
