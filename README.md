@@ -5,6 +5,6 @@
     <img src="https://img.shields.io/badge/-Daniel%20Gaievskyi-0077B5?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/gaievskyi">
-    <img src="https://img.shields.io/badge/-@gaievskyi-FFFFFF?style=flat&logo=X&logoColor=black" />
+    <img src="https://img.shields.io/badge/-@dgaievskyi-FFFFFF?style=flat&logo=X&logoColor=black" />
   </a>
 </p>
